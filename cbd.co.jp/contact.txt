@@ -4,14 +4,13 @@
  <head>
   <meta charset='utf-8'>
   <title>MC888 APK 8.1 (Login) Unduh Aplikasi Slot Paling Cuanx 2026</title>
-  <link rel="icon" type="image/x-icon" href="https://images2.imgbox.com/e1/33/2xrdqyQ8_o.png" />
+   <meta name="description" content="MC888 APK 8.1 2026 jadi jalur cepat ke dunia slot Android paling cuanable. Login instan, link resmi aman, aplikasi ringan, siap tembak jackpot kapan aja."/>
+  <link rel="icon" type="image/x-icon" href="https://images2.imgbox.com/e1/33/2xrdqyQ8_o.png"/>
   <link rel="apple-touch-icon" href="https://images2.imgbox.com/e1/33/2xrdqyQ8_o.png">
   <link rel="canonical" href="https://cbd.co.jp/contact/">
-  <link rel="amphtml" href="https://mc888-link-alternatif.pages.dev" />
-  <link rel="alternate" hreflang="id-id" href="https://mc888-link-alternatif.pages.dev"/>
-  <link rel="alternate" href="https://cbd.co.jp/contact/"/>
-  <link rel="alternate" hreflang="id" href="https://mc888-link-alternatif.pages.dev"/>
-  <link rel="alternate" hreflang="en" href="https://cbd.co.jp/contact/"/>
+  
+  <link rel="amphtml" href="https://mc888-link-alternatif.pages.dev"/>
+
   <link rel="alternate" hreflang="x-default" href="https://cbd.co.jp/contact/"/>
   <link as='image' href='https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
@@ -19,190 +18,154 @@
   <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
   <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
   <link crossorigin href='https://connect.facebook.net' rel='preconnect'>
-  <link rel="stylesheet" href="https://assets.teepublic.com/assets/bundles/product-27efacddfffc4e9541c100011b9e0cf4258b53d4bd8386ac5e37135f3cd07974.css" media="all" />
+  <link rel="stylesheet" href="https://assets.teepublic.com/assets/bundles/product-27efacddfffc4e9541c100011b9e0cf4258b53d4bd8386ac5e37135f3cd07974.css" media="all"/>
   <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Medium-88ba78029f73fa9f18e1e3c31c1f076acdc49223af70a78b2ea4bdbab8168283.woff2' rel='preload' type='font/woff2'>
   <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-SemiBold-9d9c1ae0fc78f67d82c4fc43987857f5b897d29b903701d1e97c2e207311d636.woff2' rel='preload' type='font/woff2'>
   <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Bold-e95979b74ebe06c1851ece294f8f7e9e6d3ad0d817d1968dcbfb26373f0b4de5.woff2' rel='preload' type='font/woff2'>
   <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/SharpGroteskBold-f0bacf6ef6410646205690dca3bc65f5bb2d31b9417a358ad9c07237a310d196.woff2' rel='preload' type='font/woff2'>
-  <script>
-   (function(h, o, u, n, d) {
-    h = h[d] = h[d] || {
-     q: [],
-     onReady: function(c) {
-      h.q.push(c)
-     }
-    }
-    d = o.createElement(u);
-    d.async = 1;
-    d.src = n n = o.getElementsByTagName(u)[0];
-    n.parentNode.insertBefore(d, n)
-   })(window, document, 'script', 'https://www.datadoghq-browser-agent.com/us5/v5/datadog-rum.js', 'DD_RUM') DD_RUM.onReady(function() {
-    DD_RUM.init({
-     clientToken: 'pub8afcb76e7747723499bda481aef4828f',
-     applicationId: '815ab20a-1d12-45bb-9881-005646b95f6b',
-     site: 'us5.datadoghq.com',
-     service: 'teepublic',
-     env: 'production',
-     version: '18173265448-2844-1',
-     sessionSampleRate: 5,
-     sessionReplaySampleRate: 0,
-     traceSampleRate: 5,
-     trackUserInteractions: true,
-     trackResources: true,
-     trackLongTasks: true,
-     defaultPrivacyLevel: 'mask-user-input',
-     allowedTracingUrls: ['https://cbd.co.jp/contact/', 'https://cbd.co.jp/contact/']
-    });
-   })
-  </script>
+  <script>(function(h,o,u,n,d){h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+d=o.createElement(u);d.async=1;d.src=n n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)})(window,document,'script','https://www.datadoghq-browser-agent.com/us5/v5/datadog-rum.js','DD_RUM')DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481aef4828f',applicationId:'815ab20a-1d12-45bb-9881-005646b95f6b',site:'us5.datadoghq.com',service:'teepublic',env:'production',version:'18173265448-2844-1',sessionSampleRate:5,sessionReplaySampleRate:0,traceSampleRate:5,trackUserInteractions:true,trackResources:true,trackLongTasks:true,defaultPrivacyLevel:'mask-user-input',allowedTracingUrls:['https://cbd.co.jp/contact/','https://cbd.co.jp/contact/']});})</script>
   <meta content='F9EF52AA90C6458518CEE48CF835744E' name='msvalidate.01'>
   <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
   <meta content='teepublic' name='cloudinary_cloud_name'>
   
   <meta content='index, follow' name='robots'>
-  <meta content='MC888 APK 8.1 2026 jadi jalur cepat ke dunia slot Android paling cuanable. Login instan, link resmi aman, aplikasi ringan, siap tembak jackpot kapan aja.'>
+ 
   <meta property="og:title" content="MC888 APK 8.1 (Login) Unduh Aplikasi Slot Paling Cuanx 2026">
   <meta property="og:description" content="MC888 APK 8.1 2026 jadi jalur cepat ke dunia slot Android paling cuanable. Login instan, link resmi aman, aplikasi ringan, siap tembak jackpot kapan aja.">
-  <meta name="keywords" content="mc888, mc888 apk, mc888 login"/>
+  <meta name="keywords" content="mc888 apk"/>
   <meta property="og:price:amount" content="10.888">
   <meta property="og:price:currency" content="IDR">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://cbd.co.jp/contact/">
   <meta property="og:image" content="https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png">
-  <meta property="og:site_name" content="TeePublic">
+  <meta property="og:site_name" content="MC888">
   <meta property="product:price:amount" content="25.00">
-  <meta property="product:brand" content="TeePublic">
+  <meta property="product:brand" content="MC888">
   <meta property="product:price:currency" content="IDR">
   <meta property="product:availability" content="in stock">
-  <meta property="product:retailer_item_id" content="74165272D1V">
+  <meta property="product:retailer_item_id" content="74165272MC888">
   <meta property="product:condition" content="new">
-  <meta content='TeePublic' name='apple-mobile-web-app-title'>
-  <script>
-   window.dataLayer = window.dataLayer || [];
-  </script>
-  <script>
-   dataLayer.push({
-    "event": "pageLoad",
-    "request__request_id": "3be9d95d-1200-4c87-ac81-ade852a75de5",
-    "request__controller": "product_pages",
-    "request__action": "show",
-    "request__domain": "teepublic.com",
-    "request__base_url": "https://cbd.co.jp/contact/",
-    "request__ab_tests": {
-     "con-3051-pasf": "default"
-    },
-    "request__safe_search": true,
-    "request__referring_affiliate_id": null,
-    "request__referring_affiliate_ua_id": null,
-    "request__referring_affiliate_ga4_id": null,
-    "request__referring_affiliate_network_id": null,
-    "locale__locale": "en",
-    "locale__currency_iso": "IDR",
-    "locale__gdprcookie": "all",
-    "locale__euvisitor": false,
-    "cart__items": [],
-    "design__design_id": 74165272,
-    "design__canvas_id": 1,
-    "design__product_id": 357,
-    "design__parent_id": "74165272D1V",
-    "design__variant_id": "19G79A8C",
-    "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic MC888\",\"Color\":\"Red\"}",
-    "design__mock_image": "https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png",
-    "design__url": "https://cbd.co.jp/contact/",
-    "design__canvas": "MC888",
-    "design__canvas_canonical_name": "MC888",
-    "design__design_title": "MC888 APK 8.1 2026 jadi jalur cepat ke dunia slot Android paling cuanable. Login instan, link resmi aman, aplikasi ringan, siap tembak jackpot kapan aja.",
-    "design__price": 23.0,
-    "design__price_usd": 23.0,
-    "design__price_in_currency": 23.0,
-    "design__primary_tag": "george-kittle",
-    "design__owner_type": "designer",
-    "design__owner_id": 6075586,
-    "design__on_sale": false,
-    "design__currency_iso": "IDR",
-    "design__feed_sku": null,
-    "design__designer_name": "Hey siriusly",
-    "design__designer_ua_id": null,
-    "design__designer_ga4_id": null,
-    "design__marketing_sku": "74165272D1V19G79A8C"
-   })
-  </script>
-  <script>
-   window.dataLayer.push({
-    "event": "productDetailImpression",
-    "ecommerce": {
-     "detail": {
-      "products": [{
-       "category": "MC888",
-       "parent_id": "74165272D1V",
-       "product_id": "357",
-       "price": "25.0",
-       "price_usd": "25.0",
-       "name": "MC888",
-       "id": "74165272",
-       "brand": "Hey Mini",
-       "design_color": "Red",
-       "product_image": "https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png",
-       "variant_id": "19G79A8C",
-       "design_owner_id": "6075586",
-       "design_primary_tag": "mc888",
-       "design_on_sale": "false",
-       "variant": '{"Gender":"Male Fit","Style":"MC888","Color":"Red"}',
-       "dimension34": '74165272D1V19G79A8C',
-       "dimension37": 'false',
-       "dimension42": 'https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png',
-       "dimension44": 'george-kittle',
-       "dimension46": '6075586',
-       "dimension47": 'designer'
-      }]
-     }
-    }
-   });
-  </script>
+  <meta content='MC888' name='apple-mobile-web-app-title'>
+  <script>window.dataLayer=window.dataLayer||[];</script>
+  <script>dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://cbd.co.jp/contact/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"IDR","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic MC888\",\"Color\":\"Red\"}","design__mock_image":"https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png","design__url":"https://cbd.co.jp/contact/","design__canvas":"MC888","design__canvas_canonical_name":"MC888","design__design_title":"MC888 APK 8.1 2026 jadi jalur cepat ke dunia slot Android paling cuanable. Login instan, link resmi aman, aplikasi ringan, siap tembak jackpot kapan aja.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"IDR","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"74165272MC888A8C"})</script>
+  <script>window.dataLayer.push({"event":"productDetailImpression","ecommerce":{"detail":{"products":[{"category":"MC888","parent_id":"7416527MC888","product_id":"357","price":"25.0","price_usd":"25.0","name":"MC888","id":"74165272","brand":"Hey Mini","design_color":"Red","product_image":"https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png","variant_id":"19G79A8C","design_owner_id":"6075586","design_primary_tag":"mc888","design_on_sale":"false","variant":'{"Gender":"Male Fit","Style":"MC888","Color":"Red"}',"dimension34":'74165272MC888A8C',"dimension37":'false',"dimension42":'https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png',"dimension44":'george-kittle',"dimension46":'6075586',"dimension47":'designer'}]}}});</script>
   <!--[if lte IE 8]>
 <div style="color:#fff;background:#f00;padding:20px;text-align:center;"> ThemeForest no longer actively supports this version of Internet Explorer. We suggest that you 
 <a href="https://windows.microsoft.com/en-us/internet-explorer/download-ie" style="color:#fff;text-decoration:underline;">upgrade to a newer version</a> or 
 <a href="https://browsehappy.com/" style="color:#fff;text-decoration:underline;">try a different browser</a>. 
 </div>
 <![endif]-->
-  </script>
-  </script>
-  <style>
-   /* KUNCI overflow agar tidak meluber ke kanan */
-   .preview,
-   .m-product-preview__glider,
-   .glide,
-   .glide__track {
-    overflow: hidden !important;
-    max-width: 100% !important;
-   }
-
-   /* Biarkan Glide bekerja normal */
-   .glide__slides {
-    display: flex !important;
-    /* jaga-jaga */
-    margin: 0 !important;
-    /* rollback kalau sebelumnya sempat dipasang: */
-    contain: none !important;
-   }
-
-   /* Pastikan gambar terlihat dan tidak “ngecil 0” */
-   .glide__slide img,
-   .m-product-preview__glider-img img,
-   .preview .jsProductMainImage {
-    max-width: 100% !important;
-    height: auto !important;
-    display: block !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-   }
-
-   /* Anti scroll horizontal */
-   html,
-   body {
-    overflow-x: hidden !important;
-   }
-  </style>
+    <script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "MC888",
+    "description": "MC888 APK 8.1 2026 jadi jalur cepat ke dunia slot Android paling cuanable. Login instan, link resmi aman, aplikasi ringan, siap tembak jackpot kapan aja.",
+    "image": "https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "GameApplication",
+    "applicationSubCategory": "Card",
+    "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "IDR",
+        "availability": "https://schema.org/InStock"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingCount": "762"
+    }
+}</script>
+      <script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Apakah MC888 membutuhkan koneksi internet?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, MC888 membutuhkan koneksi internet agar fitur di dalam aplikasi dapat berjalan secara optimal."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Di mana pengguna bisa mendapatkan informasi terbaru tentang MC888?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Informasi terbaru mengenai MC888 biasanya tersedia di halaman resmi atau sumber terpercaya yang menyediakan update aplikasi."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Bagaimana cara instal aplikasi MC888 di HP?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cukup unduh file MC888 APK dari sumber resmi, lalu install seperti biasa melalui perangkat Android."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Di mana pengguna bisa mendapatkan MC888 versi terbaru?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Versi terbaru MC888 bisa didapatkan melalui link resmi agar pengguna mendapatkan update paling aman dan stabil."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Apakah MC888 membutuhkan koneksi internet saat digunakan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, MC888 dirancang untuk penggunaan online sehingga membutuhkan koneksi internet agar fitur di dalamnya dapat berjalan dengan baik."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Seberapa cepat performa MC888 saat digunakan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "MC888 memiliki performa yang responsif dengan waktu loading yang cepat, bahkan di jaringan standar."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Apakah MC888 mendukung pembaruan otomatis?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pembaruan MC888 biasanya tersedia secara berkala dan dapat dilakukan dengan mengunduh versi terbaru dari sumber resmi."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Apakah MC888 kompatibel dengan Android versi lama?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, MC888 tetap dapat berjalan di beberapa versi Android lama selama masih memenuhi standar minimum sistem."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Apakah MC888 bisa digunakan di jaringan internet standar?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, MC888 tetap dapat digunakan di jaringan internet standar selama koneksi cukup stabil untuk menjalankan fitur online."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Apakah MC888 cocok digunakan untuk penggunaan harian?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dengan performa yang ringan dan sistem yang stabil, MC888 cocok digunakan sebagai aplikasi hiburan untuk aktivitas harian."
+            }
+        }
+    ]
+}</script>
+  <style>.preview,.m-product-preview__glider,.glide,.glide__track{overflow:hidden!important;max-width:100%!important}.glide__slides{display:flex!important;margin:0!important;contain:none!important}.glide__slide img,.m-product-preview__glider-img img,.preview .jsProductMainImage{max-width:100%!important;height:auto!important;display:block!important;opacity:1!important;visibility:visible!important}html,body{overflow-x:hidden!important}</style>
  </head>
  <body class='no-user' data-action='lazyload@window-&gt;checkout--checkout#initCheckout' data-controller='checkout--checkout utilities--ab-test utilities--timer' data-utilities--timer-containers--countdown-outlet='.containers--countdown' id='teepublic'>
   </div>
@@ -246,8 +209,8 @@
    <div class='vc-header__search-container'>
     <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
      <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://cbd.co.jp/contact/" accept-charset="UTF-8" method="post">
-      <input type="hidden" name="_method" value="patch" autocomplete="off" />
-      <input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
+      <input type="hidden" name="_method" value="patch" autocomplete="off"/>
+      <input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off"/>
       <div class='m-header__search-field-container'>
        <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
         <div class='m-header__search-field-placeholder'>
@@ -270,12 +233,12 @@
                                                                                               <path d=&quot;M5.98911 7.03107C6.17346 5.73963 7.37897 4.84085 8.6817 5.02359C9.98435 5.20633 10.8909 6.4015 10.7067 7.69285C10.6142 8.34917 10.5458 8.00429 10.4943 8.67678C14.0408 5.75738 18.6173 4 23.603 4C34.8311 4 44 12.918 44 24C44 35.082 34.8311 44 23.603 44C14.4904 44 6.75081 38.1355 4.14317 30.008C3.63659 28.4291 4.51708 26.742 6.10979 26.2398C7.7025 25.7376 9.40432 26.6105 9.9109 28.1894C11.7294 33.8574 17.1586 38 23.603 38C31.5621 38 37.9476 31.6957 37.9476 24C37.9476 16.3043 31.5621 10 23.603 10C20.0968 10 16.8927 11.2244 14.4041 13.2572C15.2972 13.2141 15.1887 13.1278 16.0743 13.0047C17.3768 12.8222 18.5821 13.7209 18.7665 15.0122C18.9508 16.3037 18.0426 17.499 16.7399 17.6817C15.0076 17.9228 14.2854 18.0513 12.5379 17.9598C11.2917 17.8945 9.99833 17.8575 8.80123 17.4672C8.33973 17.3167 7.70293 17.046 7.16659 16.5143C6.63027 15.9826 6.35719 15.3513 6.20541 14.8938C5.76759 13.5741 5.76508 12.1649 5.68671 10.7906C5.59661 9.21028 5.76768 8.59659 5.98911 7.03107Z&quot;></path>
                                                                                               <path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M24 14.5047C25.6569 14.5047 27 15.8478 27 17.5047V24.8061L30.5435 26.9322C31.9642 27.7847 32.4249 29.6274 31.5725 31.0482C30.72 32.4689 28.8773 32.9296 27.4565 32.0772L21 28.2033V17.5047C21 15.8478 22.3431 14.5047 24 14.5047Z&quot;></path>
                                                                                             </svg>
-                                                                                          </span>" autocomplete="off" spellcheck="false" autocapitalize="off" autocorrect="off" placeholder="" tabIndex="1" />
-       <input type="hidden" name="search_submission_data" id="search_submission_data" class="jsAutoCompleteData" autocomplete="off" />
-       <input type="hidden" name="search_location" id="search_location" value="header" autocomplete="off" />
-       <input type="hidden" name="canvas" id="canvas" value="MC888" autocomplete="off" />
-       <input type="hidden" name="referred_from_merch" id="referred_from_merch" value="false" autocomplete="off" />
-       <input type="hidden" name="artist_search" id="artist_search" class="jsArtistSearchData" autocomplete="off" />
+                                                                                          </span>" autocomplete="off" spellcheck="false" autocapitalize="off" autocorrect="off" placeholder="" tabIndex="1"/>
+       <input type="hidden" name="search_submission_data" id="search_submission_data" class="jsAutoCompleteData" autocomplete="off"/>
+       <input type="hidden" name="search_location" id="search_location" value="header" autocomplete="off"/>
+       <input type="hidden" name="canvas" id="canvas" value="MC888" autocomplete="off"/>
+       <input type="hidden" name="referred_from_merch" id="referred_from_merch" value="false" autocomplete="off"/>
+       <input type="hidden" name="artist_search" id="artist_search" class="jsArtistSearchData" autocomplete="off"/>
        <div class='m-header__search-close hide jsClearHeaderSearch' data-controller='rudderstack--filter-clicked' data-rudderstack--filter-clicked-location-value='nav-search'>
         <button type="reset" class="btn m-header__search-close-button tp-btn--medium btn--no-background tp-btn--icon">
          <span data-action="click-&gt;rudderstack--filter-clicked#track" data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4" data-filter-name="Clear Search" class="teepublicon teepublicon--dark-default teepublicon-background--transparent">
@@ -377,53 +340,7 @@
     </div>
   </div>
   </div>
-  <style>
-   .n-columns-2 {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    font-weight: 700;
-   }
-
-   .n-columns-2 a {
-    text-align: center;
-    margin: 3px;
-    text-decoration: none; /* Menghilangkan garis bawah link */
-   }
-
-   .login,
-   .register {
-    color: #ffffff;
-    padding: 10px 10px;
-   }
-
-   /* Tombol LOGIN - Yellow Chrome Glossy */
-   .login,
-   .login-button {
-    text-shadow: 2px 2px #000000;
-    border-radius: 10px;
-    border: 1px solid #000000;
-    /* Gradasi dari Yellow Chrome cerah ke sedikit lebih gelap */
-    background: linear-gradient(to bottom, #FFD700 0%, #FFB700 100%);
-    color: #fff;
-   }
-
-   /* Tombol REGISTER - Dark Chrome / Sesuai Tema */
-   .register,
-   .register-button {
-    text-shadow: 2px 2px #000000;
-    border-radius: 10px;
-    /* Menggunakan gradasi chrome yang lebih kontras namun tetap mewah */
-    background: linear-gradient(to bottom, #444444 0%, #111111 100%);
-    border: 1px solid #000000;
-    color: #fff;
-   }
-
-   /* Efek Hover agar lebih interaktif */
-   .login:hover, .register:hover {
-    opacity: 0.9;
-    filter: brightness(1.1);
-   }
-</style>
+  <style>.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);font-weight:700}.n-columns-2 a{text-align:center;margin:3px;text-decoration:none}.login,.register{color:#fff;padding:10px 10px}.login,.login-button{text-shadow:2px 2px #000;border-radius:10px;border:1px solid #000;background:linear-gradient(to bottom,#ffd700 0%,#ffb700 100%);color:#fff}.register,.register-button{text-shadow:2px 2px #000;border-radius:10px;background:linear-gradient(to bottom,#444 0%,#111 100%);border:1px solid #000;color:#fff}.login:hover,.register:hover{opacity:.9;filter:brightness(1.1)}</style>
   <!-- Section 2 -->
   <div class="section-2-container section-container section-container-gray-bg">
    <div class="container mt-1 pt-1">
@@ -438,11 +355,11 @@
     </section>
    </div>
    <form id="applepay_form" action="/checkout/applepay" accept-charset="UTF-8" method="post">
-    <input type="hidden" name="authenticity_token" value="ftcZb-GKSUWKuED9ZAdlP17f-deDvqmS8t2HWzuG-k2-1-JtQKQigwmLNRgaLuomTN0ZPG3x71D-NcYA6_TJhA" autocomplete="off" />
-    <input type="hidden" name="applepay_nonce" id="applepay_nonce" autocomplete="off" />
-    <input type="hidden" name="applepay_address" id="applepay_address" autocomplete="off" />
-    <input type="hidden" name="applepay_shipping" id="applepay_shipping" autocomplete="off" />
-    <input type="hidden" name="checkout[payment_option]" id="checkout_payment_option" value="ApplePay" autocomplete="off" />
+    <input type="hidden" name="authenticity_token" value="ftcZb-GKSUWKuED9ZAdlP17f-deDvqmS8t2HWzuG-k2-1-JtQKQigwmLNRgaLuomTN0ZPG3x71D-NcYA6_TJhA" autocomplete="off"/>
+    <input type="hidden" name="applepay_nonce" id="applepay_nonce" autocomplete="off"/>
+    <input type="hidden" name="applepay_address" id="applepay_address" autocomplete="off"/>
+    <input type="hidden" name="applepay_shipping" id="applepay_shipping" autocomplete="off"/>
+    <input type="hidden" name="checkout[payment_option]" id="checkout_payment_option" value="ApplePay" autocomplete="off"/>
    </form>
    <div class='main-wrapper overflow-hidden'>
     <div id='site'>
@@ -452,154 +369,8 @@
      </noscript>
      <div id='content'>
       <div class='flash x'></div>
-      <script type="application/ld+json">
- {
-  "@type": "Product",
-  "@context": "https://schema.org",
-  "url": "https://cbd.co.jp/contact/",
-  "name": "MC888",
-  "sku": "889154",
-  "gtin": "n\/a",
-  "description": "MC888 APK 8.1 2026 jadi jalur cepat ke dunia slot Android paling cuanable. Login instan, link resmi aman, aplikasi ringan, siap tembak jackpot kapan aja.",
-  "image": [{
-   "@type": "ImageObject",
-   "@context": "https://schema.org",
-   "author": "MC888",
-   "contentURL": "https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png",
-   "description": "MC888 APK 8.1 2026 jadi jalur cepat ke dunia slot Android paling cuanable. Login instan, link resmi aman, aplikasi ringan, siap tembak jackpot kapan aja.",
-   "thumbnail": "https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png"
-  }],
-  "category": "ANDROID > APK SLOT > MC888",
-  "brand": {
-   "@type": "Brand",
-   "@context": "https://schema.org",
-   "name": "MC888"
-  },
-  "logo": "https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png",
-  "aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "5.0",
-   "reviewCount": 1991
-  },
-  "offers": {
-   "@type": "Offer",
-   "eligibleQuantity": 800,
-   "price": "10888",
-   "priceCurrency": "IDR",
-   "availability": "https://schema.org\/InStock",
-   "shippingDetails": {
-    "@type": "OfferShippingDetails",
-    "shippingRate": {
-     "@type": "MonetaryAmount",
-     "value": "0",
-     "currency": "IDR"
-    }
-   }
-  },
-  "review": [{
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2025-08-27",
-   "reviewBody": "Saya mencoba bermain melalui Apk MC888 dan pengalaman yang diberikan sangat memuaskan. Proses login sangat cepat dan pilihan permainan slot gacor yang tersedia juga cukup lengkap. Tampilan situsnya responsif sehingga nyaman dimainkan baik lewat mobile maupun desktop.",
-   "author": {
-    "@type": "Person",
-    "name": "Bagas"
-   }
-  }, {
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2025-08-28",
-   "reviewBody": "Apk MC888 ini menurut saya sangat praktis untuk pemain slot online. Proses daftar akun juga cepat sehingga saya bisa langsung mencoba berbagai game slot populer yang tersedia. Navigasi situsnya jelas dan mudah digunakan.",
-   "author": {
-    "@type": "Person",
-    "name": "Rendy"
-   }
-  }, {
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2025-01-20",
-   "reviewBody": "Salah satu hal yang saya sukai dari MC888 adalah sistemnya yang stabil dan akses login yang mudah. Game slot yang tersedia cukup banyak dan semuanya berjalan lancar tanpa gangguan. Platform ini cocok untuk pemain yang mencari situs slot online dengan sistem modern.",
-   "author": {
-    "@type": "Person",
-    "name": "Ardi"
-   }
-  }, {
+    
 
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2024-12-07",
-   "reviewBody": "Pengalaman saya menggunakan aplikasi MC888 cukup menyenangkan. Proses registrasi akun sangat mudah dan setelah login saya bisa langsung mengakses berbagai permainan slot gacor populer. Platformnya juga ringan sehingga nyaman digunakan kapan saja.",
-   "author": {
-    "@type": "Person",
-    "name": "Fajar"
-   }
-  }]
- }
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Apa itu MC888?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "MC888 adalah apk slot online yang menyediakan berbagai permainan slot gacor populer dengan sistem modern serta akses yang mudah digunakan oleh pemain."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Bagaimana cara daftar akun MC888 online?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pemain dapat membuat akun MC888 dengan mengakses halaman pendaftaran pada situs resmi, kemudian mengisi data registrasi yang diperlukan sebelum akun dapat digunakan untuk login dan bermain."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apa keunggulan bermain di aplikasi MC888?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Keunggulan MC888 adalah sistem login yang cepat, tampilan situs yang responsif, serta koleksi permainan slot gacor populer yang dapat dimainkan melalui berbagai perangkat."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah MC888 bisa dimainkan melalui perangkat mobile?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ya, platform MC888 dirancang responsif sehingga dapat diakses melalui perangkat desktop maupun mobile dengan tampilan yang tetap nyaman dan mudah digunakan."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Mengapa MC888 sering dipilih oleh pemain slot online?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Banyak pemain memilih MC888 karena menyediakan akses login praktis, pilihan permainan slot populer, serta sistem platform yang stabil sehingga pengalaman bermain menjadi lebih nyaman."
-      }
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
  {
   "@context": "https://schema.org",
@@ -717,51 +488,11 @@
               <div class='m-cart-config__select-label'></div>
               <a href="https://mc888-link-alternatif.pages.dev" class="btn-x">DAFTAR DISINI</a>
               <a href="https://mc888-link-alternatif.pages.dev" class="btn-x">LOGIN DISINI</a>
-              <style>
-   .btn-x {
-    display: inline-block;
-    min-width: 200px;
-    text-align: center;
-    padding: 14px 28px;
-    margin: 5px;
-    /* Efek Yellow Chrome dengan gradasi metalik */
-    background: linear-gradient(180deg, #FFD700 0%, #FFB700 50%, #FFA500 100%);
-    color: #ffffff;
-    font-weight: 700;
-    border-radius: 10px;
-    text-decoration: none;
-    /* Memberikan sedikit tekstur border agar lebih tegas */
-    border: 1px solid #D9A405;
-    /* Bayangan lebih dalam untuk efek timbul */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.4);
-    cursor: pointer;
-    transition: all 0.3s ease;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
-   }
-
-   .btn-x:hover {
-    /* Hover menjadi chrome yang lebih cerah/menyala */
-    background: linear-gradient(180deg, #FFB700 0%, #FFD700 100%);
-    box-shadow: 0 6px 20px rgba(255, 183, 0, 0.4);
-    transform: translateY(-2px);
-    color: #fff;
-   }
-
-   .right-rail:empty,
-   .sidebar:empty,
-   .product__aside:empty {
-    display: none !important;
-   }
-
-   .page-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 24px;
-   }
-</style>
+              <style>.btn-x{display:inline-block;min-width:200px;text-align:center;padding:14px 28px;margin:5px;background:linear-gradient(180deg,#ffd700 0%,#ffb700 50%,#ffa500 100%);color:#fff;font-weight:700;border-radius:10px;text-decoration:none;border:1px solid #d9a405;box-shadow:0 4px 15px rgba(0,0,0,.2) , inset 0 1px 0 rgba(255,255,255,.4);cursor:pointer;transition:all .3s ease;text-shadow:1px 1px 2px rgba(0,0,0,.3)}.btn-x:hover{background:linear-gradient(180deg,#ffb700 0%,#ffd700 100%);box-shadow:0 6px 20px rgba(255,183,0,.4);transform:translateY(-2px);color:#fff}.right-rail:empty,.sidebar:empty,.product__aside:empty{display:none!important}.page-grid{display:grid;grid-template-columns:1fr;gap:24px}</style>
              </div>
            </div>
-           <br><header>
+           <br>
+<header>
 <p><strong>Ditulis oleh Tim Riset Aplikasi Digital &bull; Update 2026</strong></p>
 </header>
 <section>
@@ -852,7 +583,49 @@
 <section>
 <h2>Kesimpulan</h2>
 <p>MC888 APK 8.1 menjadi solusi praktis bagi pengguna Android yang mencari akses cepat dan ringan ke platform slot di tahun 2026. Dengan fitur login instan, performa stabil, serta keamanan yang terjaga, aplikasi ini layak dipertimbangkan sebagai pilihan utama.</p>
-</section>  </div>
+</section>
+ </div>
+ <div class="faq-list">
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah MC888 membutuhkan koneksi internet?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Ya, MC888 membutuhkan koneksi internet agar fitur di dalam aplikasi dapat berjalan secara optimal.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Di mana pengguna bisa mendapatkan informasi terbaru tentang MC888?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Informasi terbaru mengenai MC888 biasanya tersedia di halaman resmi atau sumber terpercaya yang menyediakan update aplikasi.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Bagaimana cara instal aplikasi MC888 di HP?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Cukup unduh file MC888 APK dari sumber resmi, lalu install seperti biasa melalui perangkat Android.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Di mana pengguna bisa mendapatkan MC888 versi terbaru?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Versi terbaru MC888 bisa didapatkan melalui link resmi agar pengguna mendapatkan update paling aman dan stabil.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah MC888 membutuhkan koneksi internet saat digunakan?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Ya, MC888 dirancang untuk penggunaan online sehingga membutuhkan koneksi internet agar fitur di dalamnya dapat berjalan dengan baik.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Seberapa cepat performa MC888 saat digunakan?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>MC888 memiliki performa yang responsif dengan waktu loading yang cepat, bahkan di jaringan standar.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah MC888 mendukung pembaruan otomatis?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Pembaruan MC888 biasanya tersedia secara berkala dan dapat dilakukan dengan mengunduh versi terbaru dari sumber resmi.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah MC888 kompatibel dengan Android versi lama?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Ya, MC888 tetap dapat berjalan di beberapa versi Android lama selama masih memenuhi standar minimum sistem.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah MC888 bisa digunakan di jaringan internet standar?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Ya, MC888 tetap dapat digunakan di jaringan internet standar selama koneksi cukup stabil untuk menjalankan fitur online.</p>
+        </div>
+        <div class='faq-item'>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah MC888 cocok digunakan untuk penggunaan harian?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Dengan performa yang ringan dan sistem yang stabil, MC888 cocok digunakan sebagai aplikasi hiburan untuk aktivitas harian.</p>
+        </div></div>
          </div>
          <input class='field' id='canvas_id' type='hidden' value='1'>
          <input class='field' id='product_id' type='hidden' value='357'>
@@ -959,7 +732,7 @@
            <picture class='m-design-product-info--product-quality-image'>
             <source srcset='https://assets.teepublic.com/assets/misc/quality-bbd87f5f7d7e01a131fc7d2f5da9e1d8ee462b7006cee1f3abaefb50459cf3aa.avif' type='image/avif'>
             <source srcset='https://assets.teepublic.com/assets/misc/quality-82ed70decf30530cfacab675c1abe90f87af861c6185313a378f7d22fb3a8905.webp' type='image/webp'>
-            <img loading="lazy" src="https://assets.teepublic.com/assets/misc/quality-105f88ff211ef8ffbcf207c25f6af68585f8713382fdd7662c0ba7a0f50a105e.png" />
+            <img loading="lazy" src="https://assets.teepublic.com/assets/misc/quality-105f88ff211ef8ffbcf207c25f6af68585f8713382fdd7662c0ba7a0f50a105e.png"/>
            </picture>
           </div>
           <div class='m-design-product-info--faq-container'>
@@ -1009,220 +782,10 @@
            </div>
           </div>
          </div>
-         <style>
-   :root {
-    /* Mengubah palet abu-abu menjadi Yellow Chrome */
-    --brand: #FFD700;      /* Gold/Chrome Light */
-    --brand-mid: #FFB700;  /* Chrome Standard */
-    --brand-dark: #FFA500; /* Chrome Deep */
-    --border: #E6B800;
-    --bg: #ffffff;
-    --shadow: 0 6px 15px rgba(0, 0, 0, .08);
-   }
-
-   .app-card {
-    max-width: 650px;
-    margin: 25px auto;
-    background: var(--bg);
-    border-radius: 14px;
-    overflow: hidden;
-    box-shadow: var(--shadow);
-    border: 1px solid var(--border);
-    transition: transform .2s, box-shadow .3s;
-    font-family: system-ui, Arial, sans-serif;
-    font-size: .92rem;
-   }
-
-   .app-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 25px rgba(255, 183, 0, .2); /* Shadow sedikit kekuningan */
-   }
-
-   .app-header {
-    padding: 12px 16px;
-    text-align: center;
-    /* Efek Gradasi Chrome Glossy */
-    background: linear-gradient(135deg, var(--brand), var(--brand-mid), var(--brand-dark));
-    color: #000000;
-    font-weight: 800;
-    font-size: 1.15rem;
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5); /* Shadow terang agar teks hitam terbaca mewah */
-    border-bottom: 2px solid var(--border);
-   }
-
-   .app-table {
-    width: 100%;
-    border-collapse: collapse;
-   }
-
-   .app-table th,
-   .app-table td {
-    padding: 8px 12px;
-    vertical-align: middle;
-   }
-
-   .app-table th {
-    width: 35%;
-    background: #FFF9E6; /* Kuning sangat muda untuk kontras kolom */
-    color: #000000;
-    font-weight: 700;
-    letter-spacing: .2px;
-    border-bottom: 1px solid var(--border);
-    text-transform: uppercase;
-    font-size: .85rem;
-   }
-
-   .app-table td {
-    border-bottom: 1px solid #f0f0f0;
-    color: #1f1f1f;
-    font-size: .9rem;
-   }
-
-   @media(max-width:640px) {
-    .app-table,
-    .app-table tbody,
-    .app-table tr,
-    .app-table th,
-    .app-table td {
-     display: block;
-     width: 100%;
-    }
-    .app-table th { border-bottom: none; background: #FFF4CC; }
-   }
-
-   .review-section {
-    max-width: 850px;
-    margin: 30px auto;
-    display: flex;
-    flex-direction: column;
-    gap: 18px;
-    font-family: system-ui, Arial, sans-serif;
-   }
-
-   .review-card {
-    background: #fdfdfd;
-    padding: 16px 20px;
-    border-radius: 10px;
-    /* Aksen garis samping Yellow Chrome */
-    border-left: 5px solid var(--brand-mid);
-    box-shadow: 0 3px 6px rgba(0, 0, 0, .05);
-    transition: all .25s ease-in-out;
-    border-top: 1px solid #eee;
-    border-right: 1px solid #eee;
-    border-bottom: 1px solid #eee;
-   }
-
-   .review-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 5px 10px rgba(255, 183, 0, .15);
-    background: #fff;
-   }
-
-   .review-author {
-    font-weight: 700;
-    color: #000000;
-    margin-bottom: 4px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 15px;
-   }
-
-   .review-author::before {
-    content: "👤";
-    font-size: 20px;
-    filter: sepia(1) saturate(5) hue-rotate(10deg); /* Membuat emoji sedikit kekuningan */
-   }
-
-   .review-card p {
-    margin: 0;
-    color: #222;
-    font-size: 14px;
-    line-height: 1.6;
-   }
-
-   .review-rating {
-    margin-left: auto;
-    font-weight: 700;
-    color: var(--brand-dark); /* Nilai angka rating jadi warna chrome */
-   }
-
-   /* ⭐ STAR SYSTEM - Sekarang Full Yellow Chrome */
-   .stars {
-    --rating: 5;
-    --star-size: 1rem;
-    --star-gap: 2px;
-    --star-empty: #e0e0e0;
-    --star-fill: var(--brand-mid); /* Warna bintang jadi kuning chrome */
-    position: relative;
-    display: inline-block;
-    font-size: var(--star-size);
-    line-height: 1;
-    letter-spacing: var(--star-gap);
-   }
-
-   .stars::before {
-    content: "★★★★★";
-    color: var(--star-empty);
-   }
-
-   .stars::after {
-    content: "★★★★★";
-    color: var(--star-fill);
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: calc((var(--rating)/5)*100%);
-    overflow: hidden;
-    white-space: nowrap;
-    pointer-events: none;
-    /* Efek kilau pada bintang */
-    text-shadow: 0 0 2px rgba(255, 165, 0, 0.4);
-   }
-
-   .stars.lg {
-    --star-size: 1.1rem;
-    letter-spacing: 3px
-   }
-
-   .badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    flex-wrap: wrap
-   }
-
-   .badge small {
-    color: #555;
-    font-weight: 600
-   }
-</style>
+         <style>:root{--brand:#ffd700;--brand-mid:#ffb700;--brand-dark:#ffa500;--border:#e6b800;--bg:#fff;--shadow:0 6px 15px rgba(0,0,0,.08)}.app-card{max-width:650px;margin:25px auto;background:var(--bg);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--border);transition:transform .2s , box-shadow .3s;font-family:system-ui,Arial,sans-serif;font-size:.92rem}.app-card:hover{transform:translateY(-2px);box-shadow:0 10px 25px rgba(255,183,0,.2)}.app-header{padding:12px 16px;text-align:center;background:linear-gradient(135deg,var(--brand),var(--brand-mid),var(--brand-dark));color:#000;font-weight:800;font-size:1.15rem;text-shadow:0 1px 1px rgba(255,255,255,.5);border-bottom:2px solid var(--border)}.app-table{width:100%;border-collapse:collapse}.app-table th,.app-table td{padding:8px 12px;vertical-align:middle}.app-table th{width:35%;background:#fff9e6;color:#000;font-weight:700;letter-spacing:.2px;border-bottom:1px solid var(--border);text-transform:uppercase;font-size:.85rem}.app-table td{border-bottom:1px solid #f0f0f0;color:#1f1f1f;font-size:.9rem}@media (max-width:640px){.app-table,.app-table tbody,.app-table tr,.app-table th,.app-table td{display:block;width:100%}.app-table th{border-bottom:none;background:#fff4cc}}.review-section{max-width:850px;margin:30px auto;display:flex;flex-direction:column;gap:18px;font-family:system-ui,Arial,sans-serif}.review-card{background:#fdfdfd;padding:16px 20px;border-radius:10px;border-left:5px solid var(--brand-mid);box-shadow:0 3px 6px rgba(0,0,0,.05);transition:all .25s ease-in-out;border-top:1px solid #eee;border-right:1px solid #eee;border-bottom:1px solid #eee}.review-card:hover{transform:translateY(-3px);box-shadow:0 5px 10px rgba(255,183,0,.15);background:#fff}.review-author{font-weight:700;color:#000;margin-bottom:4px;display:flex;align-items:center;gap:6px;font-size:15px}.review-author::before{content:"👤";font-size:20px;filter:sepia(1) saturate(5) hue-rotate(10deg)}.review-card p{margin:0;color:#222;font-size:14px;line-height:1.6}.review-rating{margin-left:auto;font-weight:700;color:var(--brand-dark)}.stars{--rating:5;--star-size:1rem;--star-gap:2px;--star-empty:#e0e0e0;--star-fill:var(--brand-mid);position:relative;display:inline-block;font-size:var(--star-size);line-height:1;letter-spacing:var(--star-gap)}.stars::before{content:"★★★★★";color:var(--star-empty)}.stars::after{content:"★★★★★";color:var(--star-fill);position:absolute;left:0;top:0;width: calc((var(--rating)/5)*100%);overflow:hidden;white-space:nowrap;pointer-events:none;text-shadow:0 0 2px rgba(255,165,0,.4)}.stars.lg{--star-size:1.1rem;letter-spacing:3px}.badge{display:inline-flex;align-items:center;gap:8px;flex-wrap:wrap}.badge small{color:#555;font-weight:600}</style>
         </div>
         <h2 style="font-weight:bold; text-align:center;">Testimoni Member MC888</h2>
-        <div class="review-section">
-         <div class="review-card">
-          <div class="review-author"> Bagas
-           <!-- span KOSONG + nilai rating -->
-           <span class="review-rating stars" style="--rating:5" aria-label="Rating 5.0 dari 5"></span>
-          </div>
-          <p>Saya mencoba bermain melalui Apk MC888 dan pengalaman yang diberikan sangat memuaskan. Proses login sangat cepat dan pilihan permainan slot gacor yang tersedia juga cukup lengkap. Tampilan situsnya responsif sehingga nyaman dimainkan baik lewat mobile maupun desktop.</p>
-         </div>
-         <div class="review-card">
-          <div class="review-author"> Rendy <span class="review-rating stars" style="--rating:4.8" aria-label="Rating 4.8 dari 5"></span>
-          </div>
-          <p>Apk MC888 ini menurut saya sangat praktis untuk pemain slot online. Proses daftar akun juga cepat sehingga saya bisa langsung mencoba berbagai game slot populer yang tersedia. Navigasi situsnya jelas dan mudah digunakan.</p>
-         </div>
-         <div class="review-card">
-          <div class="review-author"> Ardi <span class="review-rating stars" style="--rating:4.9" aria-label="Rating 4.9 dari 5"></span>
-          </div>
-          <p>Salah satu hal yang saya sukai dari MC888 adalah sistemnya yang stabil dan akses login yang mudah. Game slot yang tersedia cukup banyak dan semuanya berjalan lancar tanpa gangguan. Platform ini cocok untuk pemain yang mencari situs slot online dengan sistem modern.</p>
-         </div>
-         <div class="review-card">
-          <div class="review-author"> Fajar <span class="review-rating stars" style="--rating:4.9" aria-label="Rating 4.9 dari 5"></span>
-          </div>
-          <p>Pengalaman saya menggunakan aplikasi MC888 cukup menyenangkan. Proses registrasi akun sangat mudah dan setelah login saya bisa langsung mengakses berbagai permainan slot gacor populer. Platformnya juga ringan sehingga nyaman digunakan kapan saja.</p>
-         </div>
-        </div>
+       
        </div>
        <div class='m-design__additional-info-container'>
         <div class='contain contain--wide-3'>
@@ -1363,7 +926,7 @@
            <div class='m-footer__trusted-badges'>
             <figure class='m-footer__guarantee-image'>
              <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-              <img src="https://images2.imgbox.com/e1/33/2xrdqyQ8_o.png" alt="MC888" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
+              <img src="https://images2.imgbox.com/e1/33/2xrdqyQ8_o.png" alt="MC888" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;"/>
              </span>
             </figure>
             <div class='m-footer__trusted-text'>
@@ -1556,14 +1119,14 @@
             <div class='m-footer-payments-bbb'>
              <div class='m-footer__payment-methods-images'>
               <figure>
-               <img loading="lazy" alt="We Accept Visa, Mastercard, American Express, Discover, PayPal, and Apple Pay" src="https://assets.teepublic.com/assets/vendors/payment-methods-domestic-e3efe0cf0b9636c5ed76d563d87735104df12cf15afda7d20911d95bdbf6e360.png" />
+               <img loading="lazy" alt="We Accept Visa, Mastercard, American Express, Discover, PayPal, and Apple Pay" src="https://assets.teepublic.com/assets/vendors/payment-methods-domestic-e3efe0cf0b9636c5ed76d563d87735104df12cf15afda7d20911d95bdbf6e360.png"/>
               </figure>
              </div>
              <div class='m-footer__trust-images'>
               <div class='m-footer__bbb'>
                <a target="_blank" href="https://www.bbb.org/us/ny/new-york/profile/online-retailer/teepublic-0121-168669" class="link link--1 link--default">
                 <span class='link__content'>
-                 <img loading="lazy" alt="Better Business Bureau Accredited Business" src="https://assets.teepublic.com/assets/vendors/bbb-f6c79431393cee623e1d7db1c8d5623312fe5c7de4f48a47d04fb4b0c435c5c0.png" />
+                 <img loading="lazy" alt="Better Business Bureau Accredited Business" src="https://assets.teepublic.com/assets/vendors/bbb-f6c79431393cee623e1d7db1c8d5623312fe5c7de4f48a47d04fb4b0c435c5c0.png"/>
                 </span>
                </a>
               </div>
@@ -2264,8 +1827,8 @@
           <div class='m-browse-preferences'>
            <div class='m-browse-preferences__h'>Update Your Browsing Preferences</div>
            <form action="/browse_preferences/change" accept-charset="UTF-8" method="post">
-            <input type="hidden" name="authenticity_token" value="i-HmcXSZvpcEsQcH8y1vIvPXN7DZ4eco4eiM7RuYF7hROv90NvndPP1djOPVqdtNfP3cXlm-rwXt4_6VCtbelA" autocomplete="off" />
-            <input value="{&quot;design_slug&quot;:&quot;MC888&quot;,&quot;controller&quot;:&quot;product_pages&quot;,&quot;action&quot;:&quot;show&quot;,&quot;id&quot;:&quot;74165272-george-kittle-f-dallas-kittle&quot;}" autocomplete="off" type="hidden" name="referring_params" id="referring_params" />
+            <input type="hidden" name="authenticity_token" value="i-HmcXSZvpcEsQcH8y1vIvPXN7DZ4eco4eiM7RuYF7hROv90NvndPP1djOPVqdtNfP3cXlm-rwXt4_6VCtbelA" autocomplete="off"/>
+            <input value="{&quot;design_slug&quot;:&quot;MC888&quot;,&quot;controller&quot;:&quot;product_pages&quot;,&quot;action&quot;:&quot;show&quot;,&quot;id&quot;:&quot;74165272-george-kittle-f-dallas-kittle&quot;}" autocomplete="off" type="hidden" name="referring_params" id="referring_params"/>
             <div class='form__group'>
              <div class='form__field'>
               <label class="label--heavy" for="country">Shipping Country:</label>
@@ -2354,7 +1917,7 @@
               </div>
              </div>
              <div class='m-browse-preferences__btn-cont'>
-              <input type="submit" name="commit" value="Update" class="btn btn--large btn--full" data-disable-with="Update" />
+              <input type="submit" name="commit" value="Update" class="btn btn--large btn--full" data-disable-with="Update"/>
              </div>
              <div class='m-browse-preferences__btn-cont'>
               <a class='link link--1 text-center close-modal close-reveal-modal jsCloseModal' id='dismiss-modal-custom'>Cancel</a>
@@ -2448,23 +2011,8 @@
          </span>
         </div>
        </div>
-       <script>
-        window.TeePublic = window.TeePublic || {};
-        window.TeePublic.features = {};
-        window.TeePublic._data = {};
-        window.TeePublic.requestController = 'product_pages';
-        window.TeePublic.requestAction = 'show';
-        window.TeePublic.requestId = '3be9d95d-1200-4c87-ac81-ade852a75de5';
-       </script>
-       <script>
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', '/designs/74165272/canvas/1/product_images', true);
-        xhr.onload = function() {
-          if (xhr.status >= 200 && xhr.status < 400) {
-           var data = JSON.parse(xhr.responseText);
-           var productImages = data.images;
-           window.TeePublic.ProductImages = productImages; // Update the gallery if a product selection has been made const productImageSwapQueue = window.TeePublic && window.TeePublic.ProductImageSwapQueue; if (!productImageSwapQueue) return; window.TeePublic.ProductHelper.updateGallery( productImageSwapQueue.gallery, productImageSwapQueue.productId ); } else { console.error('Error: ' + xhr.status); } }; xhr.onerror = function(error) { console.error('Error: ' + error); }; xhr.send(); function checkProductImageSwapQueue() { } 
-       </script>
+       <script>window.TeePublic=window.TeePublic||{};window.TeePublic.features={};window.TeePublic._data={};window.TeePublic.requestController='product_pages';window.TeePublic.requestAction='show';window.TeePublic.requestId='3be9d95d-1200-4c87-ac81-ade852a75de5';</script>
+       <script>var xhr=new XMLHttpRequest();xhr.open('GET','/designs/74165272/canvas/1/product_images',true);xhr.onload=function(){if(xhr.status>=200&&xhr.status<400){var data=JSON.parse(xhr.responseText);var productImages=data.images;window.TeePublic.ProductImages=productImages;</script>
        <script src="https://assets.teepublic.com/assets/product_page-2af4d77ccb74974f4afec6972768b6abd2dca23b01d5b2e7380c8a38dff3c308.js"></script>
        <script src="https://assets.teepublic.com/packs/js/product_page-c8d7a3eb618da10ad666.js"></script>
        <script>
@@ -5579,208 +5127,24 @@
          }, 0);
         });
        </script>
-       <script>
-        TeePublic.ProductPage.Designs.secretDesignId();
-       </script>
-       <script>
-        $(function() {
-         TeePublic.Components.Utilities.copier('.jsCopyText')
-        });
-       </script>
-       <script>
-        $(function() {
-         new TeePublic.Components.TrayController();
-        });
-        TeePublic.Cart.Settings.btEnv = 'production';
-        TeePublic.Cart.Settings.btKey = 'production_9q3f7xnc_j35qfr8fn98hvg3r';
-       </script>
-       <script>
-        window.addEventListener('load', function() {
-         var src = "https://assets.teepublic.com/assets/product_page_non_critical-b3c32616b74cc64a463d89f471cc5f8ab832c96195372ee2960a820a2e3fd0a3.js";
-         TeePublic.ProductPage.Utils.appendScript(src).then(() => {
-          var json = '[{"model":{"name":"Jackson","height":{"feet":5,"inches":11,"cm":180},"weight":{"lbs":180,"kg":82}},"height":"reg","weight":"curvy","gender":"male","default":2,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/0_Jackson_Reg_Curvy_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/1_Jackson_Reg_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/2_Jackson_Reg_Curvy_Male_default_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/3_Jackson_Reg_Curvy_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/4_Jackson_Reg_Curvy_Male_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/5_Jackson_Reg_Curvy_Male_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/6_Jackson_Reg_Curvy_Male_4XL.jpg","size":"4XL"}]},{"model":{"name":"Bryan","height":{"feet":5,"inches":11,"cm":180},"weight":{"lbs":165,"kg":75}},"height":"reg","weight":"reg","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/0_Bryan_Reg_Reg_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/1_Bryan_Reg_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/2_Bryan_Reg_Reg_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/3_Bryan_Reg_Reg_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/4_Bryan_Reg_Reg_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Ian","height":{"feet":5,"inches":10,"cm":178},"weight":{"lbs":145,"kg":66}},"height":"reg","weight":"thin","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_thin_145_5_10/0_Ian_Reg_Thin_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_thin_145_5_10/1_Ian_Reg_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_thin_145_5_10/2_Ian_Reg_Thin_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_thin_145_5_10/3_Ian_Reg_Thin_Male_XL.jpg","size":"XL"}]},{"model":{"name":"Jerry","height":{"feet":5,"inches":6,"cm":168},"weight":{"lbs":165,"kg":75}},"height":"short","weight":"curvy","gender":"male","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_curvy_165_5_6/0_Jerry_Short_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_curvy_165_5_6/1_Jerry_Short_Curvy_Male_default_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_curvy_165_5_6/2_Jerry_Short_Curvy_Male_XL.jpg","size":"XL"}]},{"model":{"name":"Darius","height":{"feet":5,"inches":6,"cm":168},"weight":{"lbs":150,"kg":68}},"height":"short","weight":"reg","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/0_Darius_Short_Reg_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/1_Darius_Short_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/2_Darius_Short_Reg_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/3_Darius_Short_Reg_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/4_Darius_Short_Reg_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Mike","height":{"feet":5,"inches":5,"cm":165},"weight":{"lbs":130,"kg":59}},"height":"short","weight":"thin","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_thin_130_5_5/0_Mike_Short_Thin_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_thin_130_5_5/1_Mike_Short_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_thin_130_5_5/2_Mike_Short_Thin_Male_L.jpg","size":"L"}]},{"model":{"name":"Chris","height":{"feet":6,"inches":4,"cm":193},"weight":{"lbs":200,"kg":91}},"height":"tall","weight":"curvy","gender":"male","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_curvy_200_6_4/0_Chris_Tall_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_curvy_200_6_4/1_Chris_Tall_Curvy_Male_default_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_curvy_200_6_4/2_Chris_Tall_Curvy_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_curvy_200_6_4/3_Chris_Tall_Curvy_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Jake","height":{"feet":6,"inches":4,"cm":193},"weight":{"lbs":185,"kg":84}},"height":"tall","weight":"reg","gender":"male","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/0_Jake_Tall_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/1_Jake_Tall_Reg_Male_default_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/2_Jake_Tall_Reg_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/3_Jake_Tall_Reg_Male_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/4_Jake_Tall_Reg_Male_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/5_Jake_Tall_Reg_Male_4XL.jpg","size":"4XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/6_Jake_Tall_Reg_Male_5XL.jpg","size":"5XL"}]},{"model":{"name":"Anthony","height":{"feet":6,"inches":2,"cm":188},"weight":{"lbs":160,"kg":73}},"height":"tall","weight":"thin","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/0_Anthony_Tall_Thin_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/1_Anthony_Tall_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/2_Anthony_Tall_Thin_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/3_Anthony_Tall_Thin_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/4_Anthony_Tall_Thin_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Florinda","height":{"feet":5,"inches":6,"cm":168},"weight":{"lbs":170,"kg":77}},"height":"reg","weight":"curvy","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/0_Florinda_Reg_Curvy_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/1_Florinda_Reg_Curvy_Female_default_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/2_Florinda_Reg_Curvy_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/3_Florinda_Reg_Curvy_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/4_Florinda_Reg_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/5_Florinda_Reg_Curvy_Male_L.jpg","size":"L"}]},{"model":{"name":"Gillian","height":{"feet":5,"inches":8,"cm":173},"weight":{"lbs":150,"kg":68}},"height":"reg","weight":"reg","gender":"female","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/00_Gillian_Reg_Reg_Female_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/01_Gillian_Reg_Reg_Female_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/02_Gillian_Reg_Reg_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/03_Gillian_Reg_Reg_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/04_Gillian_Reg_Reg_Female_2L.jpg","size":"2L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/05_Gillian_Reg_Reg_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/06_Gillian_Reg_Reg_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/07_Gillian_Reg_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/08_Gillian_Reg_Reg_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/09_Gillian_Reg_Reg_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/10_Gillian_Reg_Reg_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Kourtney","height":{"feet":5,"inches":6,"cm":168},"weight":{"lbs":120,"kg":54}},"height":"reg","weight":"thin","gender":"female","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/0_Kourtney_Reg_Thin_Female_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/1_Kourtney_Reg_Thin_Female_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/2_Kourtney_Reg_Thin_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/3_Kourtney_Reg_Thin_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/4_Kourtney_Reg_Thin_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/5_Kourtney_Reg_Thin_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/6_Kourtney_Reg_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/7_Kourtney_Reg_Thin_Male_L.jpg","size":"L"}]},{"model":{"name":"Farrah","height":{"feet":5,"inches":3,"cm":160},"weight":{"lbs":200,"kg":91}},"height":"short","weight":"curvy","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/0_Farrah_Short_Curvy_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/1_Farrah_Short_Curvy_Female_default_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/2_Farrah_Short_Curvy_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/3_Farrah_Short_Curvy_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/4_Farrah_Short_Curvy_Male_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/5_Farrah_Short_Curvy_Male_3XL.jpg","size":"3XL"}]},{"model":{"name":"Katy","height":{"feet":5,"inches":2,"cm":157},"weight":{"lbs":125,"kg":57}},"height":"short","weight":"reg","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/0_Katy_Short_Reg_Female.jpg","size":"Female"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/1_Katy_Short_Reg_Female_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/2_Katy_Short_Reg_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/3_Katy_Short_Reg_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/4_Katy_Short_Reg_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/5_Katy_Short_Reg_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/6_Katy_Short_Reg_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/7_Katy_Short_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/8_Katy_Short_Reg_Male_L.jpg","size":"L"}]},{"model":{"name":"Maeve","height":{"feet":5,"inches":2,"cm":157},"weight":{"lbs":115,"kg":52}},"height":"short","weight":"thin","gender":"female","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/0_Maeve_Short_Thin_Female_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/1_Maeve_Short_Thin_Female_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/2_Maeve_Short_Thin_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/3_Maeve_Short_Thin_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/4_Maeve_Short_Thin_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/5_Maeve_Short_Thin_Male_M.jpg","size":"M"}]},{"model":{"name":"Sarah","height":{"feet":5,"inches":10,"cm":178},"weight":{"lbs":190,"kg":86}},"height":"tall","weight":"curvy","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/0_Sarah_Tall_Curvy_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/2_Sarah_Tall_Curvy_Female_default_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/2_Sarah_Tall_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/3_Sarah_Tall_Curvy_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/4_Sarah_Tall_Curvy_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/5_Sarah_Tall_Curvy_Male_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/6_Sarah_Tall_Curvy_Male_3XL.jpg","size":"3XL"}]},{"model":{"name":"Sandra","height":{"feet":5,"inches":10,"cm":178},"weight":{"lbs":155,"kg":70}},"height":"tall","weight":"reg","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/0_Sandra_Tall_Reg_Female_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/1_Sandra_Tall_Reg_Female_default_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/2_Sandra_Tall_Reg_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/3_Sandra_Tall_Reg_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/4_Sandra_Tall_Reg_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/5_Sandra_Tall_Reg_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/6_Sandra_Tall_Reg_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/7_Sandra_Tall_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/8_Sandra_Tall_Reg_Male_L.jpg","size":"L"}]},{"model":{"name":"Katie","height":{"feet":5,"inches":10,"cm":178},"weight":{"lbs":130,"kg":59}},"height":"tall","weight":"thin","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/0_Katie_Tall_Thin_Female_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/1_Katie_Tall_Thin_Female_default_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/2_Katie_Tall_Thin_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/3_Katie_Tall_Thin_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/4_Katie_Tall_Thin_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/5_Katie_Tall_Thin_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/6_Katie_Tall_Thin_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/7_Katie_Tall_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/8_Katie_Tall_Thin_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/9_Katie_Tall_Thin_Male_XL.jpg","size":"XL"}]}]';
-          var showSizer = true;
-          TeePublic.ProductPage.initializeInfo(json, showSizer)
-         });
-        });
-        TeePublic.Validators.initCsrfToken();
-       </script>
-       <script>
-        $(function() {
-         TeePublic.Utility.modal($('.jsChangeIntlSettings'), $('#intl-settings'));
-         TeePublic.Utility.modal($('.jsShowSliderSizechart'), $('#mobile-size-chart'));
-         TeePublic.Utility.modal($('.jsShowCanvasSizechart'), $('#mobile-canvas-sizechart'));
-        });
-       </script>
-       <script>
-        setTimeout(function() {
-         $('.flash .notice.temp:not([data-keep])').slideUp('slow');
-        }, 5000);
-        $(function() {
-         TeePublic.Utility.unveil_images();
-        });
-        var rudderstackGlobalProperties = {
-         "website_id": 1,
-         "subdomain_name": "www",
-         "domain_name": "teepublic.com",
-         "store_name": null,
-         "store_id": null,
-         "xcfb": "1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d"
-        };
-        var rsEnvData = {
-         write_key: "2HNPADTAqRU1fVtw8bfPRR44gtx",
-         data_plane_url: "https://teepublicoox.dataplane.rudderstack.com",
-         js_use_beacon: false,
-         anonymous_id: "cd1d819e-a9e0-4e3d-b8be-56639cfbd299",
-         global_properties: window.rudderstackGlobalProperties
-        };
-        window.rudderstackEnvVars = rsEnvData;
-        if (false) {
-         window.addEventListener('CookiebotOnConsentReady', function() {
-            if (Cookiebot.consent.statistics) {
-             if (true) { // Rudderstack initialize script TeePublic.RudderstackHelpers.renderRudderstackScript(); } // Datadog RUM script (function(h,o,u,n,d) { h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}} d=o.createElement(u);d.async=1;d.src=n n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n) })(window,document,'script','https://www.datadoghq-browser-agent.com/us5/v5/datadog-rum.js','DD_RUM') DD_RUM.onReady(function() { DD_RUM.init({ clientToken: 'pub8afcb76e7747723499bda481aef4828f', applicationId: '815ab20a-1d12-45bb-9881-005646b95f6b', site: 'us5.datadoghq.com', service: 'teepublic', env: 'production', version: '18173265448-2844-1', sessionSampleRate: 10, sessionReplaySampleRate: 0, traceSampleRate: 5, trackUserInteractions: true, trackResources: true, trackLongTasks: true, defaultPrivacyLevel: 'mask-user-input', allowedTracingUrls: [ 'https://www.teepublic.com', 'https://www.teepublic-staging.com' ] }); }); // Google Analytics script (function() { window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date; ga('create', 'UA-39467830-1', 'auto'); // Google Optimize Container ga('require', 'GTM-KL7BC3L'); // ga('send', 'pageview'); })(); var gaScript = document.createElement('script'); gaScript.async = true; gaScript.src = 'https://www.google-analytics.com/analytics.js'; document.head.appendChild(gaScript); } }, false); } window.addEventListener('load', function() { if (true && window.rudderanalytics != undefined) { TeePublic.RudderstackHelpers.storeContextSessionId(); } if (window.Cookiebot !== undefined) { if (Cookies.get('cookiebot_geo') === undefined) { Cookies.set('cookiebot_geo', Cookiebot.userCountry.toUpperCase(), { expires: 365, secure: true }) } } }); TeePublic.initProductClicks(); 
-       </script>
+       <script>TeePublic.ProductPage.Designs.secretDesignId();</script>
+       <script>$(function(){TeePublic.Components.Utilities.copier('.jsCopyText')});</script>
+       <script>$(function(){new TeePublic.Components.TrayController();});TeePublic.Cart.Settings.btEnv='production';TeePublic.Cart.Settings.btKey='production_9q3f7xnc_j35qfr8fn98hvg3r';</script>
+       <script>window.addEventListener('load',function(){var src="https://assets.teepublic.com/assets/product_page_non_critical-b3c32616b74cc64a463d89f471cc5f8ab832c96195372ee2960a820a2e3fd0a3.js";TeePublic.ProductPage.Utils.appendScript(src).then(()=>{var json='[{"model":{"name":"Jackson","height":{"feet":5,"inches":11,"cm":180},"weight":{"lbs":180,"kg":82}},"height":"reg","weight":"curvy","gender":"male","default":2,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/0_Jackson_Reg_Curvy_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/1_Jackson_Reg_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/2_Jackson_Reg_Curvy_Male_default_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/3_Jackson_Reg_Curvy_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/4_Jackson_Reg_Curvy_Male_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/5_Jackson_Reg_Curvy_Male_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_curvy_180_5_11/6_Jackson_Reg_Curvy_Male_4XL.jpg","size":"4XL"}]},{"model":{"name":"Bryan","height":{"feet":5,"inches":11,"cm":180},"weight":{"lbs":165,"kg":75}},"height":"reg","weight":"reg","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/0_Bryan_Reg_Reg_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/1_Bryan_Reg_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/2_Bryan_Reg_Reg_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/3_Bryan_Reg_Reg_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_reg_165_5_11/4_Bryan_Reg_Reg_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Ian","height":{"feet":5,"inches":10,"cm":178},"weight":{"lbs":145,"kg":66}},"height":"reg","weight":"thin","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_thin_145_5_10/0_Ian_Reg_Thin_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_thin_145_5_10/1_Ian_Reg_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_thin_145_5_10/2_Ian_Reg_Thin_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/reg_thin_145_5_10/3_Ian_Reg_Thin_Male_XL.jpg","size":"XL"}]},{"model":{"name":"Jerry","height":{"feet":5,"inches":6,"cm":168},"weight":{"lbs":165,"kg":75}},"height":"short","weight":"curvy","gender":"male","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_curvy_165_5_6/0_Jerry_Short_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_curvy_165_5_6/1_Jerry_Short_Curvy_Male_default_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_curvy_165_5_6/2_Jerry_Short_Curvy_Male_XL.jpg","size":"XL"}]},{"model":{"name":"Darius","height":{"feet":5,"inches":6,"cm":168},"weight":{"lbs":150,"kg":68}},"height":"short","weight":"reg","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/0_Darius_Short_Reg_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/1_Darius_Short_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/2_Darius_Short_Reg_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/3_Darius_Short_Reg_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_reg_150_5_6/4_Darius_Short_Reg_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Mike","height":{"feet":5,"inches":5,"cm":165},"weight":{"lbs":130,"kg":59}},"height":"short","weight":"thin","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_thin_130_5_5/0_Mike_Short_Thin_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_thin_130_5_5/1_Mike_Short_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/short_thin_130_5_5/2_Mike_Short_Thin_Male_L.jpg","size":"L"}]},{"model":{"name":"Chris","height":{"feet":6,"inches":4,"cm":193},"weight":{"lbs":200,"kg":91}},"height":"tall","weight":"curvy","gender":"male","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_curvy_200_6_4/0_Chris_Tall_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_curvy_200_6_4/1_Chris_Tall_Curvy_Male_default_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_curvy_200_6_4/2_Chris_Tall_Curvy_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_curvy_200_6_4/3_Chris_Tall_Curvy_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Jake","height":{"feet":6,"inches":4,"cm":193},"weight":{"lbs":185,"kg":84}},"height":"tall","weight":"reg","gender":"male","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/0_Jake_Tall_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/1_Jake_Tall_Reg_Male_default_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/2_Jake_Tall_Reg_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/3_Jake_Tall_Reg_Male_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/4_Jake_Tall_Reg_Male_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/5_Jake_Tall_Reg_Male_4XL.jpg","size":"4XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_reg_185_6_4/6_Jake_Tall_Reg_Male_5XL.jpg","size":"5XL"}]},{"model":{"name":"Anthony","height":{"feet":6,"inches":2,"cm":188},"weight":{"lbs":160,"kg":73}},"height":"tall","weight":"thin","gender":"male","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/0_Anthony_Tall_Thin_Male_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/1_Anthony_Tall_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/2_Anthony_Tall_Thin_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/3_Anthony_Tall_Thin_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/male/tall_thin_160_6_2/4_Anthony_Tall_Thin_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Florinda","height":{"feet":5,"inches":6,"cm":168},"weight":{"lbs":170,"kg":77}},"height":"reg","weight":"curvy","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/0_Florinda_Reg_Curvy_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/1_Florinda_Reg_Curvy_Female_default_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/2_Florinda_Reg_Curvy_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/3_Florinda_Reg_Curvy_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/4_Florinda_Reg_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_curvy_170_5_6/5_Florinda_Reg_Curvy_Male_L.jpg","size":"L"}]},{"model":{"name":"Gillian","height":{"feet":5,"inches":8,"cm":173},"weight":{"lbs":150,"kg":68}},"height":"reg","weight":"reg","gender":"female","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/00_Gillian_Reg_Reg_Female_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/01_Gillian_Reg_Reg_Female_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/02_Gillian_Reg_Reg_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/03_Gillian_Reg_Reg_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/04_Gillian_Reg_Reg_Female_2L.jpg","size":"2L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/05_Gillian_Reg_Reg_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/06_Gillian_Reg_Reg_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/07_Gillian_Reg_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/08_Gillian_Reg_Reg_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/09_Gillian_Reg_Reg_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_reg_150_5_8/10_Gillian_Reg_Reg_Male_2XL.jpg","size":"2XL"}]},{"model":{"name":"Kourtney","height":{"feet":5,"inches":6,"cm":168},"weight":{"lbs":120,"kg":54}},"height":"reg","weight":"thin","gender":"female","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/0_Kourtney_Reg_Thin_Female_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/1_Kourtney_Reg_Thin_Female_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/2_Kourtney_Reg_Thin_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/3_Kourtney_Reg_Thin_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/4_Kourtney_Reg_Thin_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/5_Kourtney_Reg_Thin_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/6_Kourtney_Reg_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/reg_thin_120_5_6/7_Kourtney_Reg_Thin_Male_L.jpg","size":"L"}]},{"model":{"name":"Farrah","height":{"feet":5,"inches":3,"cm":160},"weight":{"lbs":200,"kg":91}},"height":"short","weight":"curvy","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/0_Farrah_Short_Curvy_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/1_Farrah_Short_Curvy_Female_default_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/2_Farrah_Short_Curvy_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/3_Farrah_Short_Curvy_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/4_Farrah_Short_Curvy_Male_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_curvy_200_5_3/5_Farrah_Short_Curvy_Male_3XL.jpg","size":"3XL"}]},{"model":{"name":"Katy","height":{"feet":5,"inches":2,"cm":157},"weight":{"lbs":125,"kg":57}},"height":"short","weight":"reg","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/0_Katy_Short_Reg_Female.jpg","size":"Female"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/1_Katy_Short_Reg_Female_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/2_Katy_Short_Reg_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/3_Katy_Short_Reg_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/4_Katy_Short_Reg_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/5_Katy_Short_Reg_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/6_Katy_Short_Reg_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/7_Katy_Short_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_reg_125_5_2/8_Katy_Short_Reg_Male_L.jpg","size":"L"}]},{"model":{"name":"Maeve","height":{"feet":5,"inches":2,"cm":157},"weight":{"lbs":115,"kg":52}},"height":"short","weight":"thin","gender":"female","default":0,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/0_Maeve_Short_Thin_Female_default_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/1_Maeve_Short_Thin_Female_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/2_Maeve_Short_Thin_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/3_Maeve_Short_Thin_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/4_Maeve_Short_Thin_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/short_thin_115_5_2/5_Maeve_Short_Thin_Male_M.jpg","size":"M"}]},{"model":{"name":"Sarah","height":{"feet":5,"inches":10,"cm":178},"weight":{"lbs":190,"kg":86}},"height":"tall","weight":"curvy","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/0_Sarah_Tall_Curvy_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/2_Sarah_Tall_Curvy_Female_default_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/2_Sarah_Tall_Curvy_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/3_Sarah_Tall_Curvy_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/4_Sarah_Tall_Curvy_Male_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/5_Sarah_Tall_Curvy_Male_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_curvy_190_5_10/6_Sarah_Tall_Curvy_Male_3XL.jpg","size":"3XL"}]},{"model":{"name":"Sandra","height":{"feet":5,"inches":10,"cm":178},"weight":{"lbs":155,"kg":70}},"height":"tall","weight":"reg","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/0_Sandra_Tall_Reg_Female_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/1_Sandra_Tall_Reg_Female_default_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/2_Sandra_Tall_Reg_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/3_Sandra_Tall_Reg_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/4_Sandra_Tall_Reg_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/5_Sandra_Tall_Reg_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/6_Sandra_Tall_Reg_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/7_Sandra_Tall_Reg_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_reg_155_5_10/8_Sandra_Tall_Reg_Male_L.jpg","size":"L"}]},{"model":{"name":"Katie","height":{"feet":5,"inches":10,"cm":178},"weight":{"lbs":130,"kg":59}},"height":"tall","weight":"thin","gender":"female","default":1,"images":[{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/0_Katie_Tall_Thin_Female_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/1_Katie_Tall_Thin_Female_default_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/2_Katie_Tall_Thin_Female_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/3_Katie_Tall_Thin_Female_XL.jpg","size":"XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/4_Katie_Tall_Thin_Female_2XL.jpg","size":"2XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/5_Katie_Tall_Thin_Female_3XL.jpg","size":"3XL"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/6_Katie_Tall_Thin_Male_S.jpg","size":"S"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/7_Katie_Tall_Thin_Male_M.jpg","size":"M"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/8_Katie_Tall_Thin_Male_L.jpg","size":"L"},{"url":"https://static.teepublic.com/sizechart/mobile/tshirt/female/tall_thin_130_5_10/9_Katie_Tall_Thin_Male_XL.jpg","size":"XL"}]}]';var showSizer=true;TeePublic.ProductPage.initializeInfo(json,showSizer)});});TeePublic.Validators.initCsrfToken();</script>
+       <script>$(function(){TeePublic.Utility.modal($('.jsChangeIntlSettings'),$('#intl-settings'));TeePublic.Utility.modal($('.jsShowSliderSizechart'),$('#mobile-size-chart'));TeePublic.Utility.modal($('.jsShowCanvasSizechart'),$('#mobile-canvas-sizechart'));});</script>
+       <script>setTimeout(function(){$('.flash .notice.temp:not([data-keep])').slideUp('slow');},5000);$(function(){TeePublic.Utility.unveil_images();});var rudderstackGlobalProperties={"website_id":1,"subdomain_name":"www","domain_name":"teepublic.com","store_name":null,"store_id":null,"xcfb":"1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d"};var rsEnvData={write_key:"2HNPADTAqRU1fVtw8bfPRR44gtx",data_plane_url:"https://teepublicoox.dataplane.rudderstack.com",js_use_beacon:false,anonymous_id:"cd1d819e-a9e0-4e3d-b8be-56639cfbd299",global_properties:window.rudderstackGlobalProperties};window.rudderstackEnvVars=rsEnvData;if(false){window.addEventListener('CookiebotOnConsentReady',function(){if(Cookiebot.consent.statistics){if(true){</script>
        <!-- Google Tag Manager (noscript) -->
        <noscript>
         <link as="iframe" src="https://www.googletagmanager.com/ns.html?id=GTM-MVDRFFD" height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch">
         </link>
        </noscript>
        <!-- End Google Tag Manager (noscript) -->
-       <script>
-        window.addEventListener('load', function() {
-         if (window.rudderanalytics && true) {
-          window.rudderanalytics.page({
-           "account_type": "guest",
-           "cart_id": {
-            "public_id": "9a8c68d58aaa0c110ea9655af8a790a4"
-           },
-           "is_signed_in": false,
-           "iso_currency_code": "IDR",
-           "request_action": "show",
-           "request_controller": "product_pages",
-           "request_id": "74165272-george-kittle-f-dallas-kittle",
-           "shipping_country": "KH",
-           "user_id": null,
-           "experiments": [{
-            "experiment_name": "con-3051-pasf",
-            "variant_name": "default"
-           }],
-           "website_id": 1,
-           "subdomain_name": "www",
-           "domain_name": "teepublic.com",
-           "store_name": null,
-           "store_id": null,
-           "xcfb": "1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d",
-           "canvas": "MC888",
-           "canvas_group": "Adult Apparel",
-           "canvas_id": 1,
-           "design_id": 74165272,
-           "design_image_url": "https://res.cloudinary.com/teepublic/image/private/s--L80ZO4l8--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_600,q_90,w_600/v1744337506/production/designs/74165272_0.jpg",
-           "design_primary_tag": "george-kittle",
-           "design_title": "George Kittle F Dallas Kittle",
-           "is_on_sale": false,
-           "marketing_sku": "74165272D1V19G79A8C",
-           "owner_account_type": "Designer",
-           "owner_id": 6075586,
-           "owner_username": "Hey siriusly",
-           "price_usd": 23.0,
-           "product_color": "Red",
-           "product_description": "Classic MC888, Male Fit | Small, Red",
-           "product_gender": "Male Fit",
-           "product_id": 357,
-           "product_size": "S",
-           "product_style": "Classic MC888",
-           "search_type": "default"
-          });
-         }
-        });
-       </script>
+       <script>window.addEventListener('load',function(){if(window.rudderanalytics&&true){window.rudderanalytics.page({"account_type":"guest","cart_id":{"public_id":"9a8c68d58aaa0c110ea9655af8a790a4"},"is_signed_in":false,"iso_currency_code":"IDR","request_action":"show","request_controller":"product_pages","request_id":"74165272-george-kittle-f-dallas-kittle","shipping_country":"KH","user_id":null,"experiments":[{"experiment_name":"con-3051-pasf","variant_name":"default"}],"website_id":1,"subdomain_name":"www","domain_name":"teepublic.com","store_name":null,"store_id":null,"xcfb":"1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d","canvas":"MC888","canvas_group":"Adult Apparel","canvas_id":1,"design_id":74165272,"design_image_url":"https://res.cloudinary.com/teepublic/image/private/s--L80ZO4l8--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_600,q_90,w_600/v1744337506/production/designs/74165272_0.jpg","design_primary_tag":"george-kittle","design_title":"George Kittle F Dallas Kittle","is_on_sale":false,"marketing_sku":"74165272D1V19G79A8C","owner_account_type":"Designer","owner_id":6075586,"owner_username":"Hey siriusly","price_usd":23.0,"product_color":"Red","product_description":"Classic MC888, Male Fit | Small, Red","product_gender":"Male Fit","product_id":357,"product_size":"S","product_style":"Classic MC888","search_type":"default"});}});</script>
       
  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b87847099afddbc',t:'MTc2NzQ5NTk1OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"774383b6dad84e36b6db3b3eb488106b","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9cf22573ae2c1658',t:'MTc3MTI5ODM5OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"411d5ca35892417d86933d2bef04dd8b","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"660d69dbb828481799be1d2866fe3309","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-   <style>
-          .footer-floating-olx {
-              position: fixed;
-              bottom: 18px;
-              left: 50%;
-              transform: translateX(-50%);
-              width: 100%;
-              max-width: 1500px;
-              display: flex;
-              gap: 14px;
-              padding: 16px 22px;
-              background: rgb(120 83 0 / 65%);
-              backdrop-filter: blur(10px);
-              border-radius: 20px;
-              border: 2px solid rgb(255 221 0 / 50%);
-              box-shadow: 0 0 30px rgb(255 250 0 / 60%);
-              z-index: 999;
-          }
-
-          /* BUTTON BASE (EQUAL SIZE) */
-          .footer-btn-olx {
-              flex: 1;
-              min-width: 0;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              gap: 8px;
-              padding: 12px 10px;
-              font-size: 14px;
-              font-weight: bold;
-              color: #000000;
-              background: #ffd400;
-              border-radius: 32px;
-              border: 2px solid #ffdc3b;
-              cursor: pointer;
-              transition: all 0.3s ease;
-              box-shadow: 0 0 14px rgb(255 227 0 / 60%);
-              animation: floatUpDown 3s ease-in-out infinite;
-              text-decoration: none;
-              user-select: none;
-              white-space: nowrap;
-          }
-          /* ICON */
-          .footer-btn-olx img {
-              width: 18px;
-              height: 18px;
-              flex-shrink: 0;
-              filter: drop-shadow(0 0 5px rgb(255 177 0 / 80%));
-          }
-          /* FLOAT DELAY */
-          .footer-btn-olx.login {
-              animation-delay: 0.3s;
-          }
-          .footer-btn-olx.daftar {
-              animation-delay: 0.6s;
-          }
-          .footer-btn-olx.link {
-              animation-delay: 0.9s;
-          }
-          .footer-btn-olx.chat {
-              animation-delay: 1.2s;
-          }
-          /* HOVER GLOW */
-          .footer-btn-olx:hover {
-              background: gold;
-              box-shadow:
-                  0 0 15px #ffc800,
-                  0 0 30px #ffc800,
-                  0 0 50px #ff7e4d;
-              transform: translateY(-6px) scale(1.05);
-          }
-          /* ACTIVE GOLD */
-          .footer-btn-olx:active {
-              background: linear-gradient(135deg, #ffd700, #ffb800);
-              color: #000;
-              border-color: #ffd700;
-              box-shadow:
-                  0 0 18px #ffd700,
-                  0 0 35px #ffcc00;
-          }
-          /* FLOAT ANIMATION */
-          @keyframes floatUpDown {
+   <style>.footer-floating-olx{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);width:100%;max-width:1500px;display:flex;gap:14px;padding:16px 22px;background: rgb(120 83 0 / 65%);backdrop-filter:blur(10px);border-radius:20px;border: 2px solid rgb(255 221 0 / 50%);box-shadow: 0 0 30px rgb(255 250 0 / 60%);z-index:999}.footer-btn-olx{flex:1;min-width:0;display:flex;align-items:center;justify-content:center;gap:8px;padding:12px 10px;font-size:14px;font-weight:bold;color:#000;background:#ffd400;border-radius:32px;border:2px solid #ffdc3b;cursor:pointer;transition:all .3s ease;box-shadow: 0 0 14px rgb(255 227 0 / 60%);animation:floatUpDown 3s ease-in-out infinite;text-decoration:none;user-select:none;white-space:nowrap}.footer-btn-olx img{width:18px;height:18px;flex-shrink:0;filter: drop-shadow(0 0 5px rgb(255 177 0 / 80%))}.footer-btn-olx.login{animation-delay:.3s}.footer-btn-olx.daftar{animation-delay:.6s}.footer-btn-olx.link{animation-delay:.9s}.footer-btn-olx.chat{animation-delay:1.2s}.footer-btn-olx:hover{background:#ffd700;box-shadow:0 0 15px #ffc800 , 0 0 30px #ffc800 , 0 0 50px #ff7e4d;transform:translateY(-6px) scale(1.05)}.footer-btn-olx:active{background:linear-gradient(135deg,#ffd700,#ffb800);color:#000;border-color:#ffd700;box-shadow:0 0 18px #ffd700 , 0 0 35px #fc0}@keyframes floatUpDown {
               0% {
                   transform: translateY(0);
               }
@@ -5790,221 +5154,34 @@
               100% {
                   transform: translateY(0);
               }
-          }
-          /* RESPONSIVE */
-          @media (max-width: 1024px) {
-              .footer-floating-olx {
-                  flex-wrap: wrap;
-              }
-              .footer-btn-olx {
-                  flex: 1 1 calc(50% - 10px);
-              }
-          }
-          @media (max-width: 600px) {
-              .footer-btn-olx {
-                  flex: 1 1 100%;
-                  font-size: 13px;
-                  padding: 10px 12px;
-              }
-              .footer-btn-olx img {
-                  width: 16px;
-                  height: 16px;
-              }
-          }
-      </style>
+          }@media (max-width:1024px){.footer-floating-olx{flex-wrap:wrap}.footer-btn-olx{flex:1 1 calc(50% - 10px)}}@media (max-width:600px){.footer-btn-olx{flex:1 1 100%;font-size:13px;padding:10px 12px}.footer-btn-olx img{width:16px;height:16px}}</style>
      
     
-     <style>
-    .bobarawr {
-      margin: 0;
-      padding: 0;
-      font-family: 'Playfair Display', 'Segoe UI', serif;
-      background-color: transparent;
-      color: #fff;
-      overflow: hidden;
-    }
-
-    .popup-overlay {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background: rgba(0, 0, 0, 0.4);
-      backdrop-filter: blur(3px);
-      -webkit-backdrop-filter: blur(3px);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 9999;
-    }
-
-    .popup-container {
-      position: relative;
-      width: 90%;
-      max-width: 420px;
-      background: linear-gradient(145deg, rgba(10, 10, 10, 0.9), rgba(26, 21, 16, 0.85));
-      border-radius: 20px;
-      overflow: hidden;
-      text-align: center;
-      animation: rotateScaleIn 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275), goldPulse 3.5s infinite ease-in-out;
-      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(212, 175, 55, 0.2);
-      padding-bottom: 20px;
-      border: 1px solid rgba(212, 175, 55, 0.15);
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
-    }
-
-    /* 💛 Emas berdenyut yang mewah */
-    @keyframes goldPulse {
+     <style>.bobarawr{margin:0;padding:0;font-family:'Playfair Display','Segoe UI',serif;background-color:transparent;color:#fff;overflow:hidden}.popup-overlay{position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,.4);backdrop-filter:blur(3px);-webkit-backdrop-filter:blur(3px);display:flex;justify-content:center;align-items:center;z-index:9999}.popup-container{position:relative;width:90%;max-width:420px;background:linear-gradient(145deg,rgba(10,10,10,.9),rgba(26,21,16,.85));border-radius:20px;overflow:hidden;text-align:center;animation:rotateScaleIn .8s cubic-bezier(.175,.885,.32,1.275) , goldPulse 3.5s infinite ease-in-out;box-shadow:0 20px 40px rgba(0,0,0,.7) , 0 0 0 1px rgba(212,175,55,.2);padding-bottom:20px;border:1px solid rgba(212,175,55,.15);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}@keyframes goldPulse {
       0%, 100% {
         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 20px rgba(212, 175, 55, 0.3), 0 0 0 1px rgba(212, 175, 55, 0.2);
       }
       50% {
         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 30px rgba(212, 175, 55, 0.5), 0 0 0 1px rgba(212, 175, 55, 0.3);
       }
-    }
-
-    /* ✨ Shiny diagonal emas yang elegan */
-    .popup-container::before {
-      content: "";
-      position: absolute;
-      top: -100%;
-      left: -100%;
-      width: 200%;
-      height: 200%;
-      background: linear-gradient(
+    }.popup-container::before{content:"";position:absolute;top:-100%;left:-100%;width:200%;height:200%;background: linear-gradient(
         135deg,
         rgba(255, 255, 255, 0) 45%,
         rgba(255, 215, 0, 0.15) 50%,
         rgba(255, 255, 255, 0) 55%
-      );
-      animation: shineDiagonal 5s linear infinite;
-      z-index: 2;
-      pointer-events: none;
-    }
-
-    @keyframes shineDiagonal {
+      );animation:shineDiagonal 5s linear infinite;z-index:2;pointer-events:none}@keyframes shineDiagonal {
       0% {
         transform: translate(-100%, -100%) rotate(30deg);
       }
       100% {
         transform: translate(100%, 100%) rotate(30deg);
       }
-    }
-
-    .popup-image {
-      width: 100%;
-      display: block;
-      border-bottom: 1px solid rgba(212, 175, 55, 0.15);
-    }
-
-    .popup-buttons {
-      display: flex;
-      flex-direction: column;
-      gap: 15px;
-      padding: 25px 20px;
-      position: relative;
-      z-index: 3;
-    }
-
-    .popup-buttons a {
-      width: 100%;
-      display: block;
-      padding: 18px 0;
-      font-size: 16px;
-      font-weight: 700;
-      border-radius: 50px;
-      text-decoration: none;
-      text-align: center;
-      color: #000;
-      background: linear-gradient(135deg, #fcd200, #fcd200);
-      box-shadow: 0 10px 20px rgba(212, 175, 55, 0.4);
-      transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-      position: relative;
-      overflow: hidden;
-      text-transform: uppercase;
-      letter-spacing: 1.5px;
-      font-family: 'Montserrat', sans-serif;
-    }
-
-    /* Efek hover tombol emas yang mewah */
-    .popup-buttons a::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: -100%;
-      width: 100%;
-      height: 100%;
-      background: linear-gradient(
+    }.popup-image{width:100%;display:block;border-bottom:1px solid rgba(212,175,55,.15)}.popup-buttons{display:flex;flex-direction:column;gap:15px;padding:25px 20px;position:relative;z-index:3}.popup-buttons a{width:100%;display:block;padding:18px 0;font-size:16px;font-weight:700;border-radius:50px;text-decoration:none;text-align:center;color:#000;background:linear-gradient(135deg,#fcd200,#fcd200);box-shadow:0 10px 20px rgba(212,175,55,.4);transition:all .5s cubic-bezier(.175,.885,.32,1.275);position:relative;overflow:hidden;text-transform:uppercase;letter-spacing:1.5px;font-family:'Montserrat',sans-serif}.popup-buttons a::before{content:"";position:absolute;top:0;left:-100%;width:100%;height:100%;background: linear-gradient(
         90deg,
         transparent,
         rgba(255, 255, 255, 0.3),
         transparent
-      );
-      transition: left 0.8s;
-    }
-
-    .popup-buttons a:hover::before {
-      left: 100%;
-    }
-
-    .popup-buttons a:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 15px 25px rgba(212, 175, 55, 0.5);
-      background: linear-gradient(135deg, #f4e19c, #d4af37);
-    }
-
-    .popup-buttons a:active {
-      transform: translateY(1px);
-    }
-
-    .info-table {
-      width: 90%;
-      margin: 20px auto;
-      border-collapse: collapse;
-      color: #eee;
-      font-size: 14px;
-      position: relative;
-      z-index: 3;
-      background: rgba(0, 0, 0, 0.3);
-      border-radius: 10px;
-      overflow: hidden;
-      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    }
-
-    .info-table th {
-      background: linear-gradient(135deg, #d4af37, #b8941f);
-      padding: 14px 10px;
-      font-size: 15px;
-      color: #000;
-      border: none;
-      font-weight: 700;
-      letter-spacing: 0.8px;
-      text-transform: uppercase;
-    }
-
-    .info-table td {
-      padding: 12px;
-      border-bottom: 1px solid rgba(212, 175, 55, 0.1);
-      text-align: left;
-    }
-
-    .info-table tr:last-child td {
-      border-bottom: none;
-    }
-
-    .popup-footer {
-      font-size: 13px;
-      color: #ccc;
-      padding: 20px 10px;
-      position: relative;
-      z-index: 3;
-      line-height: 1.6;
-      font-family: 'Playfair Display', serif;
-    }
-
-    @keyframes rotateScaleIn {
+      );transition:left .8s}.popup-buttons a:hover::before{left:100%}.popup-buttons a:hover{transform:translateY(-4px);box-shadow:0 15px 25px rgba(212,175,55,.5);background:linear-gradient(135deg,#f4e19c,#d4af37)}.popup-buttons a:active{transform:translateY(1px)}.info-table{width:90%;margin:20px auto;border-collapse:collapse;color:#eee;font-size:14px;position:relative;z-index:3;background:rgba(0,0,0,.3);border-radius:10px;overflow:hidden;box-shadow:0 5px 15px rgba(0,0,0,.3)}.info-table th{background:linear-gradient(135deg,#d4af37,#b8941f);padding:14px 10px;font-size:15px;color:#000;border:none;font-weight:700;letter-spacing:.8px;text-transform:uppercase}.info-table td{padding:12px;border-bottom:1px solid rgba(212,175,55,.1);text-align:left}.info-table tr:last-child td{border-bottom:none}.popup-footer{font-size:13px;color:#ccc;padding:20px 10px;position:relative;z-index:3;line-height:1.6;font-family:'Playfair Display',serif}@keyframes rotateScaleIn {
       0% {
         opacity: 0;
         transform: scale(0.3) rotate(-10deg);
@@ -6016,20 +5193,7 @@
         opacity: 1;
         transform: scale(1) rotate(0deg);
       }
-    }
-
-    /* Efek partikel emas */
-    .gold-particle {
-      position: absolute;
-      background: radial-gradient(circle, rgba(255, 215, 0, 0.8) 0%, rgba(212, 175, 55, 0.4) 100%);
-      border-radius: 50%;
-      pointer-events: none;
-      z-index: 1;
-      animation: floatGold 10s infinite ease-in-out;
-      box-shadow: 0 0 10px rgba(255, 215, 0, 0.6);
-    }
-
-    @keyframes floatGold {
+    }.gold-particle{position:absolute;background:radial-gradient(circle,rgba(255,215,0,.8) 0%,rgba(212,175,55,.4) 100%);border-radius:50%;pointer-events:none;z-index:1;animation:floatGold 10s infinite ease-in-out;box-shadow:0 0 10px rgba(255,215,0,.6)}@keyframes floatGold {
       0%, 100% {
         transform: translateY(0) translateX(0);
         opacity: 0;
@@ -6044,91 +5208,7 @@
         transform: translateY(-120px) translateX(40px);
         opacity: 0;
       }
-    }
-
-    /* Efek border emas mewah */
-    .luxury-border {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      border: 1px solid rgba(212, 175, 55, 0.2);
-      border-radius: 20px;
-      pointer-events: none;
-      z-index: 4;
-      background: linear-gradient(135deg, 
-        rgba(212, 175, 55, 0) 0%, 
-        rgba(212, 175, 55, 0.1) 50%, 
-        rgba(212, 175, 55, 0) 100%);
-    }
-
-    /* Tombol Close */
-    .close-btn {
-      position: absolute;
-      top: 15px;
-      right: 15px;
-      width: 32px;
-      height: 32px;
-      background: rgba(0, 0, 0, 0.5);
-      border-radius: 50%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      cursor: pointer;
-      z-index: 10;
-      transition: all 0.3s ease;
-      border: 1px solid rgba(212, 201, 55, 0.671);
-    }
-
-    .close-btn:hover {
-      background: rgb(255, 217, 0);
-      transform: rotate(90deg);
-    }
-
-    .close-btn::before,
-    .close-btn::after {
-      content: '';
-      position: absolute;
-      width: 16px;
-      height: 2px;
-      background: #fff;
-    }
-
-    .close-btn::before {
-      transform: rotate(45deg);
-    }
-
-    .close-btn::after {
-      transform: rotate(-45deg);
-    }
-
-    /* Responsif untuk layar kecil */
-    @media (max-width: 480px) {
-      .popup-container {
-        width: 95%;
-        max-width: 350px;
-      }
-      
-      .popup-buttons a {
-        font-size: 14px;
-        padding: 16px 0;
-      }
-      
-      .info-table {
-        font-size: 13px;
-      }
-      
-      .popup-footer {
-        font-size: 12px;
-      }
-      
-      .close-btn {
-        width: 28px;
-        height: 28px;
-      }
-    }
-  </style>
+    }.luxury-border{position:absolute;top:0;left:0;right:0;bottom:0;border:1px solid rgba(212,175,55,.2);border-radius:20px;pointer-events:none;z-index:4;background:linear-gradient(135deg,rgba(212,175,55,0) 0%,rgba(212,175,55,.1) 50%,rgba(212,175,55,0) 100%)}.close-btn{position:absolute;top:15px;right:15px;width:32px;height:32px;background:rgba(0,0,0,.5);border-radius:50%;display:flex;justify-content:center;align-items:center;cursor:pointer;z-index:10;transition:all .3s ease;border:1px solid rgba(212,201,55,.671)}.close-btn:hover{background:#ffd900;transform:rotate(90deg)}.close-btn::before,.close-btn::after{content:'';position:absolute;width:16px;height:2px;background:#fff}.close-btn::before{transform:rotate(45deg)}.close-btn::after{transform:rotate(-45deg)}@media (max-width:480px){.popup-container{width:95%;max-width:350px}.popup-buttons a{font-size:14px;padding:16px 0}.info-table{font-size:13px}.popup-footer{font-size:12px}.close-btn{width:28px;height:28px}}</style>
 <div class="popup-overlay" id="popupOverlay">
     <div class="popup-container">
         <!-- Tombol Close -->
@@ -6145,7 +5225,7 @@
         <div class="luxury-border"></div>
         
         <div class="bobarawr">
-            <img src="https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png" alt="Popup Banner" class="popup-image" />
+            <img src="https://thumbs2.imgbox.com/34/0c/5bLgIdLl_t.png" alt="Popup Banner" class="popup-image"/>
 
             <div class="popup-buttons">
                 <a href="https://mc888-link-alternatif.pages.dev">LOGIN</a>
@@ -6160,25 +5240,9 @@
     </div>
 </div>
 
-<script>
-    function closePopup() {
-        const popupOverlay = document.getElementById('popupOverlay');
-        popupOverlay.style.opacity = '0';
-        popupOverlay.style.transition = 'opacity 0.3s ease';
-        
-        setTimeout(() => {
-            popupOverlay.style.display = 'none';
-        }, 300);
-    }
-    
-    // Menutup popup ketika mengklik area di luar popup
-    document.getElementById('popupOverlay').addEventListener('click', function(event) {
-        if (event.target === this) {
-            closePopup();
-        }
-    });
-</script>
+<script>function closePopup(){const popupOverlay=document.getElementById('popupOverlay');popupOverlay.style.opacity='0';popupOverlay.style.transition='opacity 0.3s ease';setTimeout(()=>{popupOverlay.style.display='none';},300);}document.getElementById('popupOverlay').addEventListener('click',function(event){if(event.target===this){closePopup();}});</script>
 
  </div> 
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"2237f82aac894b649179093f1e22c1a6","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
