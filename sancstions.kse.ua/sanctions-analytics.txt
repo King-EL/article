@@ -47,12 +47,13 @@
 <link rel="preconnect" href="//v.etsystatic.com"/>
 <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous"/>
 
-<link rel="alternate" href="https://sanctions.kse.ua/en/sanctions-analytics/" hreflang="en"/>
-<link rel="alternate" href="https://sanctions.kse.ua/en/sanctions-analytics/" hreflang="id-ID"/>
-<link rel="alternate" href="https://sanctions.kse.ua/en/sanctions-analytics/" hreflang="en-ID"/>
-<link rel="alternate" href="https://sanctions.kse.ua/en/sanctions-analytics/" hreflang="en-GB"/>
-<link rel="alternate" href="https://sanctions.kse.ua/en/sanctions-analytics/" hreflang="x-default"/>
-<link rel="alternate" href="https://sanctions.kse.ua/en/sanctions-analytics/" hreflang="en-US"/>
+<link rel="alternate" hreflang="id-id" href="https://janganmain-report-nub.pages.dev"/>
+<link rel="alternate" href="https://sanctions.kse.ua/en/sanctions-analytics/"/>
+<link rel="alternate" hreflang="id" href="https://janganmain-report-nub.pages.dev"/>
+<link rel="alternate" hreflang="en" href="https://sanctions.kse.ua/en/sanctions-analytics/"/>
+<link rel="alternate" hreflang="x-default" href="https://sanctions.kse.ua/en/sanctions-analytics/"/>
+
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NCBKYV7SFB"></script>
 <script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-WWVHSX46",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer");</script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-NCBKYV7SFB');</script>
